@@ -1,5 +1,6 @@
 # General Jekyll Config
 highlighter: pygments
 url: http://b2m9.github.io
+permalink: /posts/:year/:month/:title/
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
