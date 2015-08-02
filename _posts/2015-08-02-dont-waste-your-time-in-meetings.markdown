@@ -6,11 +6,11 @@ categories: []
 tags: []
 ---
 
-If you are working in a corporate environment, you are probably dragged into many meetings. Not just a few, more like it's actually your job to have meetings. But it's not. You are an engineer, your job is to get stuff done and most meetings are a waste of time.
+If you are working in a corporate environment, you are probably dragged into many meetings. Not just a few, more like it's actually your job to organise and attend meetings. But it's not. Your job is to get stuff done and most meetings are a waste of time.
 
-Ever since I moved to the [Little Red Dot](https://en.wikipedia.org/wiki/Little_red_dot), things got worse. People seem to measure their importance by how crowded their Outlook Calendar is. Things got so bad that I decided to follow Google's approach of blocking every Thursday in my Outlook. No meetings allowed. Only work. It doesn't work all the time, but often enough. And since Friday is my team's Scrum Review, it gives me the necessary productive time I need to finish up stuff.
+Ever since I moved to the [Little Red Dot](https://en.wikipedia.org/wiki/Little_red_dot), things got worse. People seem to measure their importance by how crowded their Outlook Calendar is. Things got so bad that I decided to follow Google's approach of blocking every Thursday in my Outlook. No meetings allowed. Only work. It doesn't work all the time, but often enough. And since Friday is my team's Scrum Review, it gives me the necessary productive time I need to finish up things.
 
-Despite my "no-meetings day", the normal workday is usually fragmented into hourly blocks. One hour of work here, then a meeting there, barely an hour to work, and then a meeting again. Such days suck you dry. You don't feel productive (because you aren't) and it doesn't make you happy. You want to be in [the zone](https://en.wikipedia.org/wiki/Flow_(psychology)) and do stuff.
+Despite my "no-meetings day", the normal workday is usually fragmented into hourly blocks. One hour of work here, then a meeting there, barely an hour to work, and then a meeting again. Such days suck you dry. You don't feel productive (because you aren't) and it doesn't make you happy. You want to be in [the zone](https://en.wikipedia.org/wiki/Flow_(psychology)) and do your work.
 
 Change it. I know, corporate environments are almost impossible to change, but you can at least try.
 
@@ -18,7 +18,7 @@ Change it. I know, corporate environments are almost impossible to change, but y
 
 Ask yourself: is it necessary to meet? Is your project bursting into flames without this meeting?
 
-If yes, then go ahead. If no, then choose other ways of communication. Kicking off a discussion via a mailing list or any other collaboration platform is a good way to enhance the communication because it's asynchronous. This way of communication is open, persistent, and transparent and people are able to follow the conversation on their own schedule.
+If yes, then go ahead. If the answer is no, then choose other ways of communication. Kicking off a discussion via a mailing list or any other collaboration platform is a good way to enhance the communication because it's asynchronous. This way of communication is open, persistent, and transparent and people are able to follow the conversation on their own schedule.
 
 If it's more like a "status update" kind of a meeting, then write a concise post about it and share it with your audience. It's up to you to find the best alternate way, but please don't choose email.
 
@@ -51,9 +51,9 @@ If your meeting is longer than 60 minutes, take a break.
 
 ## No laptops and smartphones
 
-One of the few major rules from my German teams. If you attend a meeting, then don't check for emails or play Candy Crush. It's not only disrespectful, it's also inefficient. When the majority is playing with their phones, it's hard to stay on track and reach a constructive consensus.
+One of the major rules from my German teams. If you attend a meeting, then don't check for emails or play Candy Crush. It's not only disrespectful, it's also inefficient. When the majority is playing with their phones, it's hard to stay on track and reach a constructive consensus.
 
-I admit, I wasn't successful to establish this rule in South East Asia. Apparently, people love their devices too much.
+I admit that there is a cultural component to it. Apparently, people in South East Asia love their devices too much.
 
 ## Take notes
 
@@ -73,7 +73,7 @@ I confess: I hate computers. Technology is terrible. There is always something g
 
 Nevertheless, try to minimise potential interruptions. For example, I know that my corporate Macs are vulnerable to losing the connection while sharing the screen with a specific conference system. Use a spare Windows laptop instead, log into a remote machine, or use a different conference system.
 
-If you have a video or phone conference, then please don't move the microphone over the table all the time. Some participants may use earphones and suffer of sudden deafness every time you do it. Also, make sure everyone in the room can be heard over the phone. Don't hide behind the corner when you speak. The connection is pretty bad most of the time, don't make it even worse.
+If you have a video or phone conference, then please don't move the microphone over the table all the time. Some participants may use earphones and suffer of sudden deafness every time you do it. Also, make sure everyone in the room can be heard over the phone. Don't hide behind the corner when you speak. The connection is pretty bad most of the time, don't make it worse.
 
 ## Decline meeting requests
 
