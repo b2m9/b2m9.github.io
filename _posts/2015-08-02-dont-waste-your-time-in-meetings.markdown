@@ -67,14 +67,6 @@ How often have you attended a meeting where you agreed on grand plans and then n
 
 Note down all points you have discussed at the end of the meeting. Define action items with deadlines and assign them. Repetition will deepen the consensus you have reached during the meeting. The tricky part: to follow up on these action items.
 
-## Tame the technology
-
-I confess: I hate computers. Technology is terrible. There is always something going wrong. You were testing it 5 minutes before the meeting and now it doesn't work anymore! I know.
-
-Nevertheless, try to minimise potential interruptions. For example, I know that my corporate Macs are vulnerable to losing the connection while sharing the screen with a specific conference system. Use a spare Windows laptop instead, log into a remote machine, or use a different conference system.
-
-If you have a video or phone conference, then please don't move the microphone over the table all the time. Some participants may use earphones and suffer of sudden deafness every time you do it. Also, make sure everyone in the room can be heard over the phone. Don't hide behind the corner when you speak. The connection is pretty bad most of the time, don't make it worse.
-
 ## Decline meeting requests
 
 The best way to stay productive is to reduce the number of meetings. Upcoming Scrum Reviews are a good reason to decline meeting requests. Or do you have the feeling that you can't contribute to the meeting because you're not familiar with the topic? Press "decline" now!
